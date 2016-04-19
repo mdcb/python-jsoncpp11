@@ -1,0 +1,2 @@
+include MANIFEST.in setup.py
+include *.cpp *.h
